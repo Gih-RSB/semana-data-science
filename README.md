@@ -15,3 +15,4 @@ Tecnologias Utilizadas
 - Jupyter Notebook
 - NumPy
 - Matplotlib
+gi
