@@ -1,4 +1,4 @@
-Semana data science inova tech
+Semana data science innova tech
 
 Cronograma:
 
